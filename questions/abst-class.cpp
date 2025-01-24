@@ -1,3 +1,5 @@
+// wap to implement abstraction 
+
 #include <iostream>
 using namespace std;
 
